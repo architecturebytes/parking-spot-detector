@@ -1,5 +1,5 @@
 # parking-spot-detector
-Detect Occupied or Free Parking Spots in a Car Parking Area (without using object detection algorithms/architecture like yolov3 etc) <br>
+Detect Occupied or Free Parking Spots in a Car Parking Area (without using object detection algorithms/architectures like yolov3 etc) <br>
 
 Refer YouTube video: https://www.youtube.com/watch?v=zU2BLU7fJtI 
 
